@@ -3,8 +3,8 @@ body{
 }
 
 section{
-    height: 500px;
-    /* padding-bottom: 140px; */
+    height: 400px;
+    /* padding-bottom: 100px; */
 }
 .top-pic{
     background-image: url("images/donation9.jpg");
@@ -15,7 +15,8 @@ section{
     padding:11% 30% 10% 30%;
 }
 .top-pic h1{
-    font-size: 50px;
+    font-size: 60px;
+    font-weight: bold;
 }
 .top-pic p{
     font-size: 22px;
@@ -38,7 +39,7 @@ section{
 }
    .donate-amount p{
 
-     font-size: 25px;
+     font-size: 22px;
      margin-left: 25%;
      margin-right: 25%;
 }
@@ -86,11 +87,11 @@ hr {
 }
 
 .donate-plan h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .donate-plan p{
-    font-size: 30px;
+    font-size: 22px;
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -112,7 +113,7 @@ hr {
 
 
 .donate-plan-style p{
-    font-size: 30px;
+    font-size: 25px;
     margin-left: 0;
 }
 
@@ -145,11 +146,11 @@ footer{
 }
 
 .mail-box h1{
-    font-size: 50px;
+    font-size: 60px;
 }
 
 .mail-box p{
-    font-size: 25px;
+    font-size: 22px;
 }
 
 .mail-box{
@@ -199,7 +200,7 @@ input{
 .sign-up{
 
     text-align: center;
-    margin-top: 500px;
+    margin-top: 350px;
 }
 
 .sign-up h1{
@@ -208,7 +209,7 @@ input{
 }
 
 .sign-up p{
-    font-size: 30px;
+    font-size: 22px;
 }
 
 .button2{
