@@ -1,0 +1,196 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.top-pic{
+    background-image: url("images/donation9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding:11% 30% 10% 30%;
+}
+.top-pic h1{
+    font-size: 50px;
+}
+.top-pic p{
+    font-size: 22px;
+}
+
+.button1{
+    margin-top: 5px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #dd2828;
+    border-radius: 10px;
+    font-size: large;
+    color: white;
+    border: none;
+}
+
+.donate-amount{
+    
+    text-align: center;
+}
+   .donate-amount p{
+
+     font-size: 25px;
+     margin-left: 25%;
+     margin-right: 25%;
+}
+   
+   .donate-amount h1{
+    font-size: 60px;
+
+}
+
+   .donate-amount-attr{
+    display: flex;
+    margin-left: 325px;
+   }
+
+   .donate-amount-elem{
+    margin: 8px;
+    background-color:#f3efef;
+    font-size: 40px;
+    font-weight: 400;
+    padding: 2% 2%;
+    border-radius: 10%; 
+   }
+
+   #unique-one{
+    background-color: #FFEEEE;
+    color: #fe5151;
+    border: 5px solid #f95656;
+   }
+
+   .textarea {
+    margin: 50px -40px 0 30px;
+    font-size: 25px;
+    background-color: transparent;
+    border: none;
+    resize: none;
+    }
+
+hr {
+    width:50%;
+   }
+
+   .donate-plan{
+    text-align: center;
+}
+
+.donate-plan h1{
+    font-size: 50px;
+}
+
+.donate-plan p{
+    font-size: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.donate-plan-style{
+    display: flex;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.donate-plan h1{
+    font-size: 60px;
+}
+
+.plan-elem h1{
+    font-size: 40px;
+    font-weight: 500; 
+}
+
+
+.donate-plan-style p{
+    font-size: 30px;
+    margin-left: 0;
+}
+
+.plan-elem{
+    margin: 30px;
+    padding: 2%;
+    border-radius: 5px;
+    
+}
+
+#plan1{
+    background-color: #cfe1e2;
+}
+#plan2{
+    background-color: #f9d4d4;
+}
+#plan3{
+    background-color: #f5ebd0;
+}
+
+footer{
+    background-color: black;
+    padding: 1%;
+    color: #fa4f4f;
+    text-align: center;
+}
+
+.footer-text{
+    color: white;
+}
+
+.mail-box h1{
+    font-size: 50px;
+}
+
+.mail-box p{
+    font-size: 25px;
+}
+
+.mail-box{
+    margin-top: 250px;
+    text-align: center;
+}
+
+.mail-elem{
+    display: flex;
+    font-size: 35px;
+    color: black;
+    background-color: #eee2c2;
+    margin-left: 15% ;
+    margin-right: 15% ;
+    padding: 60px 35px;
+}
+
+.marginal{
+    margin-left: 22%;
+}
+
+input{
+   
+   padding: 1%;
+   background-color: #D9D9D9;
+   border: none;
+   border-top-left-radius:7px;
+   border-bottom-left-radius:7px;
+}
+
+.mail-elem button{
+    background: none;
+    color: white;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    margin-bottom: 10px;
+} 
+
+.sub-button{
+    background-color: #FF5959;
+    padding: 5px 10px;
+    border-bottom-right-radius:5px ;
+    border-top-right-radius:5px ;
+}
